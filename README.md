@@ -6,16 +6,13 @@
 
 Web performance optimization techniques
 
-Web3 in FE
-
 AI in FE
+
+Web3 in FE
 
 👯 I'm looking to collaborate on...
+
 Open source frontend projects
-
-AI in FE
-
-Web3 in FE
 
 💬 Ask me about...
 
