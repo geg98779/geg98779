@@ -18,6 +18,7 @@ AI in FE
 Web3 in FE
 
 💬 Ask me about...
+
 React & Vue.js development
 
 TypeScript best practices
