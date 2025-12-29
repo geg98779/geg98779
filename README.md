@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-🚀 Frontend Developer
-Passionate frontend developer specializing in modern web technologies and creating exceptional user experiences.
+🚀 Passionate frontend developer specializing in modern web technologies and creating exceptional user experiences.
 
 🌱 I'm currently learning...
 
