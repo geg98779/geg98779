@@ -18,10 +18,10 @@
 
 ### 👋 Hi, There，I'm MayRain🙂
 
-- 🔭 全栈开发 + AI 应用工程 + 大数据平台
-- 🧠 专注 LLM 应用落地：RAG、Agent、Prompt Engineering、模型微调与部署
-- 📊 数据侧擅长构建离线 + 实时一体化的大数据处理链路
-
+- 🔭 Full-Stack Development + AI Application Engineering + Big Data Platforms
+- 🧠 Focused on shipping real LLM applications: RAG, Agents, Prompt Engineering, model fine-tuning & deployment
+- 📊 On the data side, I build batch + real-time unified big data pipelines
+- ⚡ Motto: **Small town roots, really came from the trench, big league ambitions**
 ---
 
 ### 🧰 Tech Stack
