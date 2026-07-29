@@ -21,7 +21,7 @@
 - 🔭 Full-Stack Development + AI Application Engineering + Big Data Platforms
 - 🧠 Focused on shipping real LLM applications: RAG, Agents, Prompt Engineering, model fine-tuning & deployment
 - 📊 On the data side, I build batch + real-time unified big data pipelines
-- ⚡ Motto: **Small town roots, really came from the trench, big league ambitions**
+- ⚡ Motto: **Continuous growth, ongoing iteration, big league ambitions**
 ---
 
 ### 🧰 Tech Stack
