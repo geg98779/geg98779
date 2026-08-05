@@ -3,7 +3,7 @@
 
 <!-- 打字动画：慢慢吐出宣言 -->
 <a href="https://github.com/geg98779">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=BORN+FROM+PAIN+NO+STRUGGL3+B3TT3R+D13" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=ROMANT1C+BUT+1N+REAL1TY+1TS+FULL+OF+PA1N" alt="Typing SVG" />
 </a>
 
 <br/>
